@@ -12,7 +12,7 @@ Click on your repository, and you will see Settings below your repository.
 Later, click on the Settings.
 
 ## Step 4
-Scroll down to find fro GitHub Pages. Then click on Theme Chooser to select the Theme you will love to use.
+Scroll down to search for GitHub Pages. Then click on Theme Chooser to select the Theme you will love to use.
 
 ## Step 5
 Wait for a few moments,...AND
