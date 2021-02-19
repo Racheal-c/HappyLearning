@@ -25,7 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](source)
 ```
-![power automate](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/POWER%20AUTOMATE.PNG)
 [GitHub](http://github.com)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
