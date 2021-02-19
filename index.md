@@ -1,9 +1,9 @@
 # My Project
 
 1. Project using arduino
-2. Do it
+2. Do it with passion
 
-- happy
+- happy learning
 
 **Those are the steps to make your led  glow!!**
 
