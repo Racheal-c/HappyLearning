@@ -16,6 +16,6 @@ _happy_
 
 ![STEPS](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/steps2.jpg?raw=true)
 
-![code](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/code1.jpg)
+![code](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/code1.jpg?raw=true)
 
 maintained by [**RachealC**](https://github.com/Racheal-c)
