@@ -10,4 +10,6 @@
 
 ![STEPS](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/steps2.jpg)
 
+![Power Automate](https://github.com/Racheal-c/HappyLearning/blob/gh-pages/Images/POWER%20AUTOMATE.PNG)
+
 maintained by [**RachealC**](https://github.com/Racheal-c)
